@@ -25,6 +25,7 @@ The source code for this project can be found at the repository linked [here](ht
 
 ## Usage
 
+Access the live deployed version of this application [here](https://express-note-taker-4.herokuapp.com/).
 
 ## License
 
