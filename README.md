@@ -22,7 +22,6 @@ The source code for this project can be found at the repository linked [here](ht
 ## Usage
 
 
-
 ## License
 
 This project is not protected by a license.
