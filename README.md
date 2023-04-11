@@ -1,5 +1,8 @@
 # Express Note Taker
 
+## Example Image
+
+![Screen Shot 2023-04-11 at 3 14 27 PM](https://user-images.githubusercontent.com/48537443/231266143-09ed9950-1294-491a-9fdc-4fccd81fb032.png)
 
 ## Description
 
@@ -7,13 +10,14 @@ This application uses a Bootstrap front end and Express back end to save, retrie
 
 ## Table of Contents
 
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Questions](#questions)
+1. [Example Image](#example-image)
+2. [Description](#description)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [License](#license)
+6. [Contributing](#contributing)
+7. [Tests](#tests)
+8. [Questions](#questions)
 
 ## Installation
 
