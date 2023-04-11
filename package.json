@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "cd Develop"
+    "client": "cd Develop && npm start",
+    "start": "npm run client"
   },
   "author": "",
   "license": "ISC",
